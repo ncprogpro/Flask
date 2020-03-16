@@ -1,0 +1,2 @@
+VALIDATOR_VERSION: 0.0.52COMMAND: validate.py data.csv
+PYTHON_VERSION: sys.version_info(major=3, minor=5, micro=0, releaselevel='final', serial=0)
